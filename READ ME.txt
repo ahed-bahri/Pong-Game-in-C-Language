@@ -1,0 +1,6 @@
+Hi There !
+This is Pong game, that i hope you enjoy.
+Don't forget to leave Star on my Github Account
+**All you have to do it to lunch : win32_platform.exe and here you Go ready To play.
+-AHED BAHRI 
+25/11/2019
